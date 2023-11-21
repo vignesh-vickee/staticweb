@@ -1,0 +1,2 @@
+# staticweb
+sample website
